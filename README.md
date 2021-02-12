@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41head&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=0x41head&color=green&style=flat-square&label=Your+Visitor+Rank)
+
 ### I don't really have much to say at this moment. So, here's a vibin' Naoto  
 ![picture](https://media.tenor.com/images/de413eca2c80a70e619d21a4748f632f/tenor.gif)
 <!--
