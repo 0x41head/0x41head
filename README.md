@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=0x41head&color=green&style=flat-square&label=Visitor+Number)
 
-### I don't really have much to say at this moment. So, here's a vibin' Naoto  
-![picture](https://media.tenor.com/images/de413eca2c80a70e619d21a4748f632f/tenor.gif)
 <!--
 **0x41head/0x41head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
