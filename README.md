@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=0x41head&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![My github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=0x41head&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x41head&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=0x41head&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=0x41head&color=green&style=flat-square&label=Visitor+Number)
 
